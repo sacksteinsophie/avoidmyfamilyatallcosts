@@ -1,0 +1,1 @@
+57 21 * * * osascript Desktop/sendMessage.scpt 6464203504 "Getting out of work! stop worrying lol" 
